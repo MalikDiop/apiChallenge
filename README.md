@@ -7,7 +7,7 @@
 * Add styling to your app 
 _____________________
 
-#Api.html
+# Api.html
 
 ## I created a weather app using an API from weather Map. 
 . I was able to pull an API key from weather map
@@ -16,6 +16,6 @@ _____________________
 . I used CSS, Bootstrap, JavaScript and Jquery to enhance the project.
 
 
-#Fiveday.html
+# Fiveday.html
 
 ## under construction
